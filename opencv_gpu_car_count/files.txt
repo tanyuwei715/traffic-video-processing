@@ -1,0 +1,5 @@
+2
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case\\config_20120208101941.txt
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c1\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c1\\config_20120208101941.txt

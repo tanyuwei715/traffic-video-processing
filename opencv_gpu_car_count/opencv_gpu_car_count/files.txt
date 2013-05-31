@@ -1,0 +1,17 @@
+8
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case\\config_20120208101941.txt
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c1\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c1\\config_20120208101941.txt
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c2\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c2\\config_20120208101941.txt
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c3\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c3\\config_20120208101941.txt
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c4\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c4\\config_20120208101941.txt
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c5\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c5\\config_20120208101941.txt
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c6\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c6\\config_20120208101941.txt
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c7\\20120208101941.avi
+C:\\Documents and Settings\\imsc\\Desktop\\Intel Project\\Highway Videos\\Best Case c7\\config_20120208101941.txt
